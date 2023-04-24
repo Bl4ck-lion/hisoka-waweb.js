@@ -9,12 +9,12 @@ global.reloadFile = (file, options = {}) => {
 
 // Rest Api
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'api.zeeoneofc.my.id',
 }
 
 // Apikey
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Apikey',
+	'https://zenzapis.xyz': 'XgapmPNkgglizA7',
 }
 
 // Other
@@ -37,10 +37,10 @@ global.options = {
     mute: false,
     public: true
 }
-global.owner = ["6288292024190","6285784918313"]
-global.sessionName = "hisoka"
-global.packname = "hisoka-waweb.js"
-global.author = "Dika Ardnt."
+global.owner = ["62838653241239","62838653241237"]
+global.sessionName = "Ricky"
+global.packname = "Azzbot"
+global.author = "ikyy."
 
 
 function nocache(module, cb = () => {}) {
